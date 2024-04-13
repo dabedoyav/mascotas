@@ -34,6 +34,7 @@ public class Main {
 
     static void minombre(){
         System.out.println("Me llamo Diego Bedoya");
+        System.out.println("Clase 3091 Viernes 6am a 9am");
     }
 
     static void eliminarMascotas() {
