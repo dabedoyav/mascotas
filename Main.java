@@ -7,6 +7,7 @@ public class Main {
         crearMascota();
         consultarMascotas();
         nombre();
+        minombre();
     }
 
 
@@ -31,7 +32,9 @@ public class Main {
         System.out.println("Grupo: Viernes 9-12m");
     }
 
-
+    static void minombre(){
+        System.out.println("Me llamo Diego Bedoya");
+    }
 
     static void eliminarMascotas() {
     }
