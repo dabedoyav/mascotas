@@ -199,6 +199,7 @@ public class Main {
         System.out.println("Nombre: Diego Bedoya");
         System.out.println("calse 3091");
         System.out.println("Grupo: viernes 6 a 9am");
+    }
 
 
 }
